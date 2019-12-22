@@ -1,3 +1,7 @@
+# rpi-rf2mqtt
+
+Forked from [Josar/RandomStuff/Openhab-related](https://github.com/Josar/RandomStuff/commit/9027887e253366108d4300731d4ae0029487d590)
+
 This is a program to receive data with a 433MHz transciever and publish it to a MQTT broker like mosquitto.
 
 It is configured to send data to locallhost expecting the broker to run on the RPI.
